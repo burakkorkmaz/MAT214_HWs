@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.7.1@/home/eksor/Programlar/clion-2017.1/bin/cmake/bin/cmake

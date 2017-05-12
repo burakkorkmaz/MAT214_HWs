@@ -1,0 +1,3 @@
+/home/eksor/GitHub/MAT214_HWs/HW02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eksor/GitHub/MAT214_HWs/HW02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eksor/GitHub/MAT214_HWs/HW02/cmake-build-debug/CMakeFiles/solver.dir
