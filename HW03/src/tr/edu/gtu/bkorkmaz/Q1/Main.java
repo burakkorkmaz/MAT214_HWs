@@ -12,7 +12,7 @@ public class Main {
 
             }
         }
-        double [][] extended = matrix.interpolate(3);
+        double [][] extended = matrix.interpolate(2);
 
         System.out.println(matrix.toString());
     }
